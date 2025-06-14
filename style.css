@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-image: url(picture/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+ul li{
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    font-size: large;
+    margin-right: 65px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: darkmagenta;
+}
